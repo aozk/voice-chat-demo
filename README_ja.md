@@ -1,5 +1,7 @@
 # WebRTC 音声通話サンプルアプリ
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-green?logo=web)](https://web-production-afa0b.up.railway.app/)
+
 これは **WebRTC**、**Node.js**、**Socket.IO** を使用したシンプルな音声通話アプリのサンプル実装です。  
 P2P（ピアツーピア）による音声通話と、Socket.IO を用いたシグナリングの基本構成を示しています。  
 教育用途や試作のために設計されています。

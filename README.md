@@ -1,5 +1,7 @@
 # WebRTC Voice Chat Sample
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-green?logo=web)](https://web-production-afa0b.up.railway.app/)
+
 This is a simple example of a voice chat application using **WebRTC**, **Node.js**, and **Socket.IO**.  
 It demonstrates peer-to-peer audio communication with basic signaling.  
 The project is intended for educational and experimental purposes.
